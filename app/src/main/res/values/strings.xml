@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="error_message">Failed to get results. Please try again.</string>
+    <string name="action_sort">Sort By</string>
+
+    <string name="sort_by_most_popular">popularity.desc</string>
+    <string name="sort_by_most_rated">vote_average.desc</string>
+    <string name="out_of_ten">/10</string>
+    <string name="parcelable_movies">movies</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:id="http://schemas.android.com/tools">
+    <string-array name="sortBy">
+        <item name="most_popular">Most Popular</item>
+        <item name="highest_rated">Highest Rated</item>
+    </string-array>
+
+</resources>
