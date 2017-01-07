@@ -9,7 +9,9 @@ value into myApiKey string within Networkutils class and run the project.
 
 # Libraries used:
 1) themoviedb.org API: https://www.themoviedb.org/
+
 2) Picasso: http://square.github.io/picasso/
+
 3) Gson: https://github.com/google/gson
 
 # Screenshots:
